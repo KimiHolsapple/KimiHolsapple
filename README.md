@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KimiHolsapple
-- 👀 I’m interested in computer algorithms
-- 🌱 I’m currently learning about database systems and am a student at University of California, Santa Cruz
-- 💞️ I’m looking to collaborate on web applications
+- 👀 Looking for work
+- 🌱 Current Computer Science student at University of California, Santa Cruz
 - 📫 How to reach me kholsapp@ucsc.edu
 
 <!---
