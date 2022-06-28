@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimiHolsapple
 - 👀 Looking for work
-- 🌱 Current Computer Science student at University of California, Santa Cruz
+- 🌱 New Grad Double Degree Holder from University of California, Santa Cruz
 - 📫 How to reach me kholsapp@ucsc.edu
 
 <!---
