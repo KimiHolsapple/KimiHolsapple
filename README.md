@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KimiHolsapple
 - 👀 Looking for work
-- 🌱 New Grad Double Degree Holder from University of California, Santa Cruz
+- 🌱 New Grad Dual Degree Holder from University of California, Santa Cruz
+-- Computer Science and Economics mathematics combined
 - 📫 How to reach me kholsapp@ucsc.edu
 
 <!---
