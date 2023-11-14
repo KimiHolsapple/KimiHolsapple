@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KimiHolsapple
-- 👀 Looking for work
-- 🌱 New Grad Dual Degree Holder from University of California, Santa Cruz
-  - Computer Science and Economics mathematics combined
-- 📫 How to reach me kholsapp@ucsc.edu
+- 🎮 Current Software Engineer @ Activision
+- 🧑‍💻 SKilled in C++/Lua/Python and K8S/Redis/Cassandra tech stacks
+- 🌱 University of California, Santa Cruz: Computer Science and Economics/Mathematics
+- 📫 How to reach me kimiholsapple@gmail.com
 
 <!---
 KimiHolsapple/KimiHolsapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
