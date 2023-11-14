@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimiHolsapple
 - 🎮 Current Software Engineer @ Activision
-- 🧑‍💻 SKilled in C++/Lua/Python and K8S/Redis/Cassandra tech stacks
+- 🧑‍💻 Skilled in C++/Lua/Python and K8S/Redis/Cassandra tech stacks
 - 🌱 University of California, Santa Cruz: Computer Science and Economics/Mathematics
 - 📫 How to reach me kimiholsapple@gmail.com
 
